@@ -10,9 +10,10 @@ public class camaraSwitch : MonoBehaviour {
 
 	void setup()
 	{
-		camara2.GetComponent<AudioListener> ().enabled = false;
+		
 		camara1.enabled = true;
 		camara2.enabled = false;
+		camara2.GetComponent<AudioListener> ().enabled = false;
 
 	}
 

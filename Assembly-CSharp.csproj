@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D014AC0B-B925-433D-F245-1D831552BC1B}</ProjectGuid>
+    <ProjectGuid>{4B01E083-32D8-165E-AC69-9BF26FCB22E1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -217,7 +217,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>C:/Users/admin/Desktop/semillero/Dron_MPU/Assets/LeapMotion/Core/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>C:/Users/admin/Desktop/semillero/clonadoDelProyecto/droneFlightSimulator/Assets/LeapMotion/Core/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
