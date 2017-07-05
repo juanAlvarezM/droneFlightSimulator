@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/myTrabajo/MyEscena2CambioCamaras.unity
+  isLoaded: 1
+  isActive: 1

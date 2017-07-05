@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\myTrabajo\Scripts\DronTutorial\CameraFollow.cs">
+    <Files>
+      <File FileName="Assets\myTrabajo\Scripts\DronTutorial\CameraFollow.cs" Line="11" Column="42" />
+      <File FileName="Assets\myTrabajo\Scripts\DronTutorial\DronMovementScript.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

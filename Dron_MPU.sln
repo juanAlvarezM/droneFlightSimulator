@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dron_MPU", "Assembly-CSharp.csproj", "{D014AC0B-B925-433D-F245-1D831552BC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dron_MPU", "Assembly-CSharp-Editor.csproj", "{70364002-5E57-A067-9AA3-9CD716A4016D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D014AC0B-B925-433D-F245-1D831552BC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D014AC0B-B925-433D-F245-1D831552BC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D014AC0B-B925-433D-F245-1D831552BC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D014AC0B-B925-433D-F245-1D831552BC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70364002-5E57-A067-9AA3-9CD716A4016D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70364002-5E57-A067-9AA3-9CD716A4016D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70364002-5E57-A067-9AA3-9CD716A4016D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70364002-5E57-A067-9AA3-9CD716A4016D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
