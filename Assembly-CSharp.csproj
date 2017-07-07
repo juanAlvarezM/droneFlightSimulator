@@ -188,8 +188,10 @@
      <Compile Include="Assets\myTrabajo\Scripts\Player_movement_Controller.cs" />
      <Compile Include="Assets\myTrabajo\Scripts\camaraSwitch.cs" />
      <Compile Include="Assets\myTrabajo\Scripts\unity_drone_stabiliser.cs" />
+     <None Include="Assets\myTrabajo\PruebaColorUPB\difuse.shader" />
      <None Include="Assets\LeapMotion\Core\Resources\LeapCG.cginc" />
      <None Include="Assets\LeapMotion\Core\README_BEFORE_UPDATING.txt" />
+     <None Include="Assets\myTrabajo\PruebaColorUPB\upbShader.shader" />
      <None Include="Assets\LeapMotion\Core\readme.txt" />
      <None Include="Assets\LeapMotion\Core\Resources\RuntimeGizmos.shader" />
      <None Include="Assets\LeapMotion\Core\Dependencies.txt" />
