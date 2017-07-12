@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/myTrabajo/MyEscena2CambioCamaras.unity
+- path: Assets/myTrabajo/Escenas/SeleccionPersonajes.unity
   isLoaded: 1
   isActive: 1

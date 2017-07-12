@@ -1,0 +1,49 @@
+# Exported from 3D Builder
+
+newmtl color
+Kd 0.024851 0.000000 0.000807
+
+newmtl color
+Kd 0.024851 0.000000 0.000807
+
+newmtl parteCentral
+Kd 0.000000 0.000000 0.000000
+
+newmtl parteTracera
+Kd 0.273905 0.273905 0.273905
+
+newmtl parteTracera2
+Kd 0.069711 0.000539 0.000539
+
+newmtl PatasAterrizaje.001
+Kd 0.042350 0.042752 0.043974
+
+newmtl parteCentral
+Kd 0.000000 0.000000 0.000000
+
+newmtl parteTracera
+Kd 0.273905 0.273905 0.273905
+
+newmtl parteTracera2
+Kd 0.069711 0.000539 0.000539
+
+newmtl PatasAterrizaje.001
+Kd 0.042350 0.042752 0.043974
+
+newmtl parteCentral
+Kd 0.000000 0.000000 0.000000
+
+newmtl metal
+Kd 0.117850 0.117850 0.117850
+
+newmtl pistola
+Kd 0.236552 0.204354 0.013217
+
+newmtl turbina2
+Kd 0.510622 0.495442 0.495442
+
+newmtl PISTOLA2
+Kd 0.078802 0.002498 0.004501
+
+newmtl PatasAterrizaje
+Kd 0.064009 0.064009 0.064009
